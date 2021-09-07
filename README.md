@@ -16,10 +16,10 @@ The list of samples are grouped by the category of functionality that is demonst
 
 ### Source-to-Image
 
-- [s2i-dockerfile](s2i-dockerfile/README.md)
+- [s2i-dockerfile](s2i-dockerfile)
 One of the Code Engine strategy to build an application from a git repository is by building a Dockerfile and then push it to a private repository (IBM Cloud Container Registry), and then deploy the application using that image.
 
-- [s2i-paketo-buildpacks](s2i-paketo-buildpacks/README.md)
+- [s2i-paketo-buildpacks](s2i-paketo-buildpacks)
 One of the Code Engine strategy to build an application from a git repository is by building using a Paketo Buildpacks - to identify the source code's language and build with the correct language in a pre-built environment -, push it to a private repository (IBM Cloud Container Registry), and then deploy the application using that image.
 
 ## LICENSE
