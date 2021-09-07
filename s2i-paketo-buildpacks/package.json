@@ -1,0 +1,15 @@
+{
+  "name": "what-is-my-local-ip",
+  "version": "1.0.0",
+  "description": "A source code in Node.js to run on Code Engine as Serverless function",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Victor Shinya <vshinya@br.ibm.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
